@@ -58,3 +58,8 @@ Developed as a project under the Ignite India initiative.
 
 ---
 **Note:** This repository documents the SmartCook Solutions project. Hardware specifications, source code and test results will be added based on the actual implementation.
+## Project Gallery
+
+### SmartCook Solutions – Hardware Project
+
+![SmartCook Project](images/Screenshot_18-11-2026_221020_www.linkedin.com.jpeg)
